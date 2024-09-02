@@ -3,7 +3,7 @@
 - 🤖 | Bacharel em Engenharia de Controle e Automação na UTFPR - Cornélio Procópio.
 - 👨‍💻 | Cursando MBA em Engenharia de Software. 
 - 👨‍💻 | Cursando Pós Graduação em Gestão de Tecnologia da Informação. 
-- 📚 | Estou estudando para me tornar um desenvolvedor .NET Framework.
+- 📚 | Estou estudando para me tornar um desenvolvedor Full Stack.
 - 💻 | Amante da tecnologia, com interesse especial em inovação e desenvolvimento digital.
 - 🎮 | Sou apaixonado por jogos digitais e um dos meus hobbies é desenvolver jogos no Unity.
 
